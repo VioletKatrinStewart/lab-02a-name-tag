@@ -1,0 +1,22 @@
+
+.paper {
+    background: grey;
+    padding: 10px;
+    width: 300px;
+}
+
+
+.tag {
+    background-color: red;
+    height: 200px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-rows: 15% 15% 60% 10%;
+    color: white;
+    text-align:center;
+}
+p {
+    background-color: white;
+    color: black;
+
+}
